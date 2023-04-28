@@ -1,4 +1,4 @@
-# GenerativeAI
+# GenerativeAI with VAEs, GANs and Diffusion Models
 # Introduction
 The motivation for our project is to address the limitations of existing datasets
 for medical imaging, especially in the context of brain MRI tumor detection for
